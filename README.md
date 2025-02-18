@@ -31,3 +31,6 @@ Burger 03 is a modern e-commerce platform that offers delicious burgers to custo
 - **About** – A page providing information about Burger 03.
 - **Menu** – A page listing all available products.
 - **Contact** – A page containing contact details and a contact form.
+
+
+![](https://github.com/Rasime-Dumlupunar/restaurant/blob/main/restaruant.gif)
